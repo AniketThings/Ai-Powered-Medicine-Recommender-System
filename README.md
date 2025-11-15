@@ -43,7 +43,7 @@ This is a Flask-based web application that leverages machine learning and natura
 1. Clone the repo:
 
    bash
-   git clone https://github.com/yourusername/medical-recommender-system.git
+   git clone https://github.com/AniketThings/medical-recommender-system.git
    cd medical-recommender-system
    
 
